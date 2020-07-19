@@ -21,6 +21,7 @@ def output_array(array)
     puts array[count]
     count += 1 
   end
+<<<<<<< HEAD
 end
 
 def return_string_array(array)
@@ -32,3 +33,6 @@ def return_string_array(array)
   end
   new_array
 end
+=======
+end
+>>>>>>> 1b5ff7166978f25d212546afd1bebe188a4df58e
